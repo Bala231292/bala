@@ -6,6 +6,7 @@ public class Company extends Client {
 	
 	public void companyName() {
 		System.out.println("Accenture");
+		System.out.println("sdfjgsduf");
 
 	}
 
